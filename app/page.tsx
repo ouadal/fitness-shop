@@ -134,7 +134,7 @@ export default function Home() {
                 </svg>
               </button>
               <Image
-                src="/creatine mono.jpg"
+                src="/crettt.webp"
                 alt="Créatine Monohydrate"
                 width={250}
                 height={250}
@@ -160,7 +160,7 @@ export default function Home() {
               <div className="flex items-center justify-between pt-3 border-t border-zinc-200 dark:border-zinc-800">
                 <div>
                   <p className="text-2xl font-bold text-zinc-900 dark:text-white">
-                    20,000 <span className="text-sm">FCFA</span>
+                    16,000 <span className="text-sm">FCFA</span>
                   </p>
                   <p className="text-xs text-zinc-500 dark:text-zinc-400">
                     300g
@@ -238,7 +238,7 @@ export default function Home() {
               <div className="flex items-center justify-between pt-3 border-t border-zinc-200 dark:border-zinc-800">
                 <div>
                   <p className="text-2xl font-bold text-zinc-900 dark:text-white">
-                    30,000 <span className="text-sm">FCFA</span>
+                    25,000 <span className="text-sm">FCFA</span>
                   </p>
                   <p className="text-xs text-zinc-500 dark:text-zinc-400">
                     1kg
