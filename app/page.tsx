@@ -88,7 +88,7 @@ export default function Home() {
                     35,000 <span className="text-sm">FCFA</span>
                   </p>
                   <p className="text-xs text-zinc-500 dark:text-zinc-400">
-                    1kg
+                    2,26kg
                   </p>
                 </div>
                 <button
